@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/secretcombatant/secretcombatant/blob/73a6de04d894537485f8f3afec38732fad42f219/github-header-image.png?raw=true)]
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_640.png)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretcombatant&label=Profile%20views&color=0e75b6&style=flat" alt="secretcombatant" /> </p>
 
