@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Ai & Ml, Android, Web development**
 
-- 📫 How to reach me **rohansingh.cyberking2gmail.com**
+- 📫 How to reach me **rohansingh.cyberking@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
