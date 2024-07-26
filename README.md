@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently **College student**
 
-- 👨‍💻 All of my projects are available at [https://rb.gy/qae2rr](https://rb.gy/qae2rr)
+- 👨‍💻 All of my projects are available at [https://rohansinghportfolio.my.canva.site/]([https://rb.gy/qae2rr](https://rohansinghportfolio.my.canva.site/))
 
 - 💬 Ask me about **Ai & Ml, Android, Web development**
 
