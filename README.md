@@ -18,9 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=secretcombatant&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Dev Quote
-    **if thought == "I want to give up!":**
+![qute](https://github.com/user-attachments/assets/7a1479e2-e49e-4f4d-80b4-e2a8d56c15f4)
 
-         **msg = "Step back. Recharge and come back!"**
-         **context = "Giving up is not an option!"**
-
-         **raise new_Error(msg, context)**
