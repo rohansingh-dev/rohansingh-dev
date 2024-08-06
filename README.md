@@ -1,7 +1,5 @@
 ![Creative Studio Name LinkedIn Article Cover Image](https://github.com/user-attachments/assets/035fd98e-7b8b-4586-a861-cb4e199faace)
 
-<h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-<h3 align="center">A Computer Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/secretcombatant/secretcombatant/0f9127f3f5b7f508999df9ae74a568bde6d06a78/ai-generated-8775232_640.jpg">
 
 # 💫 About Me:
@@ -17,7 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=secretcombatant&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=secretcombatant&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=secretcombatant&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Dev Quote
-![qute](https://github.com/user-attachments/assets/7a1479e2-e49e-4f4d-80b4-e2a8d56c15f4)
-
