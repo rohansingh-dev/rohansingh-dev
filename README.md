@@ -17,10 +17,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=secretcombatant&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=secretcombatant&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+    **if thought == "I want to give up!":**
 
----
-[![](https://visitcount.itsvg.in/api?id=secretcombatant&icon=2&color=0)](https://visitcount.itsvg.in)
+         **msg = "Step back. Recharge and come back!"**
+         **context = "Giving up is not an option!"**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+         **raise new_Error(msg, context)**
