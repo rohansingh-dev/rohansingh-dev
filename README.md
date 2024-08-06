@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/secretcombatant/secretcombatant/blob/73a6de04d894537485f8f3afec38732fad42f219/github-header-image.png?raw=true)]
+![Creative Studio Name LinkedIn Article Cover Image](https://github.com/user-attachments/assets/035fd98e-7b8b-4586-a861-cb4e199faace)
+
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/secretcombatant/secretcombatant/0f9127f3f5b7f508999df9ae74a568bde6d06a78/ai-generated-8775232_640.jpg">
