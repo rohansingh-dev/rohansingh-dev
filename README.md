@@ -1,4 +1,4 @@
-![Creative Studio Name LinkedIn Article Cover Image](https://github.com/user-attachments/assets/035fd98e-7b8b-4586-a861-cb4e199faace)
+![Creative Studio Name LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/cc15a436-422f-4507-9462-0bca97618dad)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/secretcombatant/secretcombatant/0f9127f3f5b7f508999df9ae74a568bde6d06a78/ai-generated-8775232_640.jpg">
 
