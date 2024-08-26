@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/secretcombatant/secretcombatant/0f9127f3f5b7f508999df9ae74a568bde6d06a78/ai-generated-8775232_640.jpg">
 
 # 💫 About Me:
-🌱 I’m currently **College student**<br><br>👨‍💻 My Portfolio are available at [Here](rohansinghportfolio.blogspot.com)<br><br>💬 Ask me about **Ai & Ml, Android, Web development**<br><br>📫 How to reach me **rohansingh.cyberking@gmail.com**
+🌱 I’m currently **College student**<br><br>👨‍💻 My Portfolio are available at [Here](https://rohansinghportfolio.blogspot.com)<br><br>💬 Ask me about **Ai & Ml, Android, Web development**<br><br>📫 How to reach me **rohansingh.cyberking@gmail.com**
 
 
 ## 🌐 Socials:
