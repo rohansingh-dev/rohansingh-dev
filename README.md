@@ -1,17 +1,48 @@
-![Creative Studio Name LinkedIn Article Cover Image (2)](https://github.com/user-attachments/assets/df8a3d9c-506c-4dfa-9d5a-8d8427ca53c1)
+# 👨‍💻 About Me  
+Hi, I’m **Rohan Singh**, a passionate **college student** exploring the realms of **Artificial Intelligence, Machine Learning, Android Development, and Web Development**. I’m constantly learning and building projects to sharpen my skills and contribute to impactful solutions.  
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/secretcombatant/secretcombatant/0f9127f3f5b7f508999df9ae74a568bde6d06a78/ai-generated-8775232_640.jpg">
+🌱 **Currently Learning:** Advanced AI/ML techniques and full-stack development.  
+💬 **Ask Me About:** AI & ML, Android Development, Web Development.  
+📫 **Reach Me At:** rohansingh.cyberking@gmail.com  
+🌐 **Portfolio:** [Visit Here](https://rohan2612.blogspot.com)  
 
-# 💫 About Me:
-🌱 I’m currently **College student**<br><br>👨‍💻 My Portfolio are available at [Here](https://rohan2612.blogspot.com)<br><br>💬 Ask me about **Ai & Ml, Android, Web development**<br><br>📫 How to reach me **rohansingh.cyberking@gmail.com**
+---
 
+## 🌐 Connect With Me  
+Feel free to connect with me on my social platforms:  
 
-## 🌐 Socials:
-[![icons8-instagram-50](https://github.com/user-attachments/assets/a43bef0c-bb37-4193-8c67-7df4313295b9)](https://instagram.com/rohan.singh2612) [![icons8-linkedin-50](https://github.com/user-attachments/assets/e1f4a504-e557-4009-9871-0abb8d2c907b)](https://linkedin.com/in/rohansingh2612) [![icons8-twitterx-50](https://github.com/user-attachments/assets/b4402062-a39e-4bca-b489-a156dc71dfca)](https://x.com/rohansingh2612) [![icons8-youtube-50](https://github.com/user-attachments/assets/7f316c94-48d3-4906-991a-da51a6f214eb)](https://youtube.com/@rohan.singh2612) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohan.singh2612)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohansingh2612)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rohansingh2612)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rohan.singh2612)  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohansingh2612&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohansingh2612&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh2612&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+## 💻 Tech Stack  
+Here are the tools and technologies I work with:  
+
+### Programming Languages  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+
+### Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
+
+### Design & Creative Tools  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+Here’s a snapshot of my GitHub activity:  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohansingh2612&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohansingh2612&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh2612&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
