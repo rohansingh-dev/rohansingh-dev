@@ -31,8 +31,7 @@ Here are the tools and technologies I work with:
 
 ## 📊 GitHub Stats  
 Here’s a snapshot of my GitHub activity:  
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohansingh2612&theme=radical&hide_border=false)  
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh2612&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
