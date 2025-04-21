@@ -22,9 +22,9 @@ I am a college student currently, passionate about exploring cutting-edge techno
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohansingh2612&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh2612&layout=compact&theme=midnight-purple&hide_border=true&card_width=400" alt="Most Used Languages" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohansingh2612&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansingh2612&layout=compact&theme=midnight-purple&hide_border=true&card_width=400" alt="Most Used Languages" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
