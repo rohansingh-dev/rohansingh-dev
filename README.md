@@ -8,7 +8,7 @@
 
 ## About
 
-I am a college student currently, passionate about exploring cutting-edge technologies in **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **Android Development**. My goal is to build impactful solutions and contribute to the tech community.
+I am a college student currently, passionate about exploring cutting-edge technologies in **Artificial Intelligence**, **Machine Learning**, and  **Web Development**. My goal is to build impactful solutions and contribute to the tech community.
 
 ---
 
