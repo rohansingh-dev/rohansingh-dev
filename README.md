@@ -16,10 +16,8 @@
 
 I am a college student passionate about building practical solutions with:
 
-- Artificial Intelligence
-- Machine Learning
+- AI and ML 
 - Web Development
-- Android Development
 
 I enjoy learning by building and contributing to meaningful technology projects.
 
