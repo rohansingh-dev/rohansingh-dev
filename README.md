@@ -48,18 +48,6 @@ I enjoy learning by building and contributing to meaningful technology projects.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohansingh-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohansingh-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <em>Striving to turn ideas into reality through technology.</em>
 </p>
