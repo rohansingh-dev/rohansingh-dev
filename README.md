@@ -49,7 +49,7 @@ I enjoy learning by building and contributing to meaningful technology projects.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" />
+  <img src="https://polaris-react.shopify.com/images/shopify-logo.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
 </p>
 
