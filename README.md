@@ -28,23 +28,34 @@ I enjoy learning by building and contributing to meaningful technology projects.
 ### Languages and Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nodejs,flask,mysql" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nodejs,flask" />
 </p>
 
-### Platforms and Dev Tools
+### AI / ML & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,figma,photoshop" alt="Platforms and Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 </p>
 
-### Data Science and ML Libraries
+- Small Language Models (SLM)  
+- LoRA Fine-tuning  
+- Model Quantization  
+- Hugging Face Transformers  
+
+### Tools and Platforms
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,vscode" />
 </p>
+
+- LM Studio  
+- Jupyter Notebook  
+- Shopify  
+- WordPress  
 
 ---
 
