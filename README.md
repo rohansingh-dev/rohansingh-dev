@@ -34,28 +34,30 @@ I enjoy learning by building and contributing to meaningful technology projects.
 ### AI / ML & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
 </p>
 
 - Small Language Models (SLM)  
 - LoRA Fine-tuning  
 - Model Quantization  
-- Hugging Face Transformers  
 
 ### Tools and Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
 </p>
 
-- LM Studio  
-- Jupyter Notebook  
-- Shopify  
-- WordPress  
+### Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
 
 ---
 
