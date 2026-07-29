@@ -10,7 +10,7 @@ Designing clean visuals, building the web, and experimenting with AI along the w
 
 ---
 
-<p>
+<div>
  <h2> Tech Stack</h2>
   <img align="right" src="https://media.tenor.com/eFR4J42pMNwAAAAi/devspidey90.gif" width="180" />
     <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" />
@@ -34,7 +34,7 @@ Designing clean visuals, building the web, and experimenting with AI along the w
     <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
     <img src="https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker" />
 <br clear="right"/>
-</p>
+</div>
 
 ---
 
