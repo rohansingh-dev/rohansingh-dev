@@ -1,66 +1,69 @@
-<h1 align="center">Rohan Singh</h1>
-
-<p align="center">
-  <strong>AI/ML Enthusiast</strong> | <strong>Web and Android Developer</strong> | <strong>Lifelong Learner</strong>
+<div align="center">
+<h1>ROHAN SINGH</h1>
+<p>
+<strong>Graphic Designer • Web Developer • AI/ML Explorer</strong>
 </p>
+<p>
+Designing clean visuals, building the web, and experimenting with AI along the way.
+</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/rohansingh-dev">
-    <img src="https://img.shields.io/badge/GitHub-rohansingh--dev-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
+---
+
+<p>
+ <h2> Tech Stack</h2>
+  <img align="right" src="https://media.tenor.com/eFR4J42pMNwAAAAi/devspidey90.gif" width="180" />
+    <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" />
+    <img src="https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop" />
+    <img src="https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator" />
+    <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva" />
+    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+    <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+    <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
+    <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch" />
+    <img src="https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-000?style=for-the-badge&logo=huggingface&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+    <img src="https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker" />
+<br clear="right"/>
 </p>
 
 ---
 
 ## About Me
 
-I am a college student passionate about building practical solutions with:
-
-- AI and ML 
-- Web Development
-
-I enjoy learning by building and contributing to meaningful technology projects.
+- Primarily a **Graphic Designer** — visual identity, UI design, and creative assets
+- Also build things for the web, from simple pages to full front-ends
+- Exploring **AI/ML with the help of AI tools** — RAG (Retrieval-Augmented Generation) pipelines and small language model (SLM) building
+- Enjoy combining design sense with technical build-outs
+- Goal: create things that look good *and* work well
 
 ---
 
-## Skills and Tools
+## 🌐 Connect With Me
 
-### Languages and Frameworks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nodejs,flask" />
-</p>
-
-### AI / ML & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
-</p>
-
-- Small Language Models (SLM)  
-- LoRA Fine-tuning  
-- Model Quantization  
-
-### Tools and Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
-  <img src="https://polaris-react.shopify.com/images/shopify-logo.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
-</p>
-
-### Design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+<p>
+  <a href="https://github.com/rohansingh-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rohansingh--dev-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:rohansingh.techie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rohansingh2612" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-rohansingh2612-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Striving to turn ideas into reality through technology.</em>
+<strong>"Design it clean, build it right, and keep learning."</strong>
 </p>
