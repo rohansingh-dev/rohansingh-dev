@@ -33,7 +33,7 @@ Designing clean visuals, building the web, and experimenting with AI along the w
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
     <img src="https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker" />
-<br clear="right"/>
+
 </div>
 
 ---
