@@ -48,17 +48,15 @@ Designing clean visuals, building the web, and experimenting with AI along the w
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
-  <a href="https://github.com/rohansingh-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rohansingh--dev-000?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:rohansingh.techie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+ 
   <a href="https://linkedin.com/in/rohansingh2612" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rohansingh2612-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-009?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
